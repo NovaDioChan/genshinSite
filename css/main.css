@@ -1,0 +1,16 @@
+.top{
+    width: 1920px;
+    height: 600px;
+    background-color: blue;
+}
+
+.topText{
+    text-align: center;
+}
+
+@media(max-width: 768px){
+ .top{
+    width: 700px;
+    height: 400px;
+ }
+}
